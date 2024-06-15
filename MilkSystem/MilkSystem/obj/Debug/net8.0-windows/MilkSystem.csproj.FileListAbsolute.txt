@@ -1,0 +1,16 @@
+C:\AshenDev\MilkSystem\MilkSystem\bin\Debug\net8.0-windows\MilkSystem.exe
+C:\AshenDev\MilkSystem\MilkSystem\bin\Debug\net8.0-windows\MilkSystem.deps.json
+C:\AshenDev\MilkSystem\MilkSystem\bin\Debug\net8.0-windows\MilkSystem.runtimeconfig.json
+C:\AshenDev\MilkSystem\MilkSystem\bin\Debug\net8.0-windows\MilkSystem.dll
+C:\AshenDev\MilkSystem\MilkSystem\bin\Debug\net8.0-windows\MilkSystem.pdb
+C:\AshenDev\MilkSystem\MilkSystem\obj\Debug\net8.0-windows\MilkSystem.Form1.resources
+C:\AshenDev\MilkSystem\MilkSystem\obj\Debug\net8.0-windows\MilkSystem.csproj.GenerateResource.cache
+C:\AshenDev\MilkSystem\MilkSystem\obj\Debug\net8.0-windows\MilkSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\AshenDev\MilkSystem\MilkSystem\obj\Debug\net8.0-windows\MilkSystem.AssemblyInfoInputs.cache
+C:\AshenDev\MilkSystem\MilkSystem\obj\Debug\net8.0-windows\MilkSystem.AssemblyInfo.cs
+C:\AshenDev\MilkSystem\MilkSystem\obj\Debug\net8.0-windows\MilkSystem.csproj.CoreCompileInputs.cache
+C:\AshenDev\MilkSystem\MilkSystem\obj\Debug\net8.0-windows\MilkSystem.dll
+C:\AshenDev\MilkSystem\MilkSystem\obj\Debug\net8.0-windows\refint\MilkSystem.dll
+C:\AshenDev\MilkSystem\MilkSystem\obj\Debug\net8.0-windows\MilkSystem.pdb
+C:\AshenDev\MilkSystem\MilkSystem\obj\Debug\net8.0-windows\MilkSystem.genruntimeconfig.cache
+C:\AshenDev\MilkSystem\MilkSystem\obj\Debug\net8.0-windows\ref\MilkSystem.dll
